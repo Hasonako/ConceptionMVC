@@ -1,0 +1,4 @@
+AuthType BASIC
+AuthName "Admin Panel"
+AuthUserFile D:\OpenServer\domains\mysite\admin\.htpasswd
+Require valid-user
